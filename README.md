@@ -12,7 +12,7 @@ Acá les voy a subir las dos clases que tenemos juntos y de paso les voy a dejar
 
 [El connect de Redux bien explicado](https://www.sohamkamani.com/blog/2017/03/31/react-redux-connect-explained/)
 
-Cualquier tema que quieran profundizar tengo una basta colección de buenos articulos en inglés y algunos en Español también para pasarles 🤓 así que pueden pedirmelo por Slack.
+Cualquier tema que quieran profundizar tengo una vasta colección de buenos articulos en inglés y algunos en español también para pasarles 🤓 así que pueden pedirmelos por Slack.
 
 Éxitos! 😁
 
